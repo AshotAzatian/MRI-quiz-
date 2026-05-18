@@ -1,0 +1,8 @@
+{
+  "name": "MRI Fysica & Anatomie Quiz",
+  "description": "Een gestroomlijnde en professionele quiz over MRI-fysica, technieken en anatomie met een modern interfaceontwerp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
